@@ -1,5 +1,19 @@
+Evaluación Final Transversal – Desarrollo Orientado a Objetos I
 
-Jaime Guzman, 18.265.487-7, Administrador
-Alicia Parraguez,8.647.254-9, Científica
-Daniel Ferrer, 13.875.968-K, Prevencionista de Riesgo
+Este proyecto corresponde a la segunda entrega sumativa del caso empresarial Salmontt para la asignatura Desarrollo Orientado a Objetos I. El sistema está desarrollado en Java e implementa los principios de la programación orientada a objetos (encapsulamiento, herencia, polimorfismo, interfaces y composición). El objetivo es gestionar empleados de una empresa salmonera, utilizando lectura de archivos, validaciones y operaciones de búsqueda.
 
+El proyecto contiene las siguientes áreas principales: 
+- app/: clase principal del sistema  
+- model/: clases de dominio  
+- service/: lógica de negocio  
+- util/: validadores y utilidades  
+
+Empleados cargados en el sistema:
+Jaime Guzmán (18.265.487-7), Administrador  
+Alicia Parraguez (8.647.254-9), Científica  
+Daniel Ferrer (13.875.968-K), Prevencionista de Riesgo  
+
+Para ejecutar el proyecto, clona el repositorio con:
+git clone https://github.com/LeYid/Camila_Reid_Salmontt_S5.git
+
+Luego ábrelo en tu IDE (NetBeans o IntelliJ), verifica la ubicación de los archivos .txt y ejecuta la clase principal ubicada en el paquete app. Fecha de entrega: 10/11/2025.
